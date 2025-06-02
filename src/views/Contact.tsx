@@ -1,5 +1,9 @@
 export default function Contact() {
   return (
-    <div>Contact Page</div>
-  )
+    <div>
+      <div>Contact Page</div>
+      <p>Yaretzi Ortiz Garcia.</p>
+    </div>
+  );
 }
+
